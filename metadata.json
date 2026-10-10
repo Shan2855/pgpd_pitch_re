@@ -1,0 +1,6 @@
+{
+  "name": "CondoCompass SG",
+  "description": "Singapore's first-time condominium buyer intelligence platform with affordability analysis, lifestyle scoring, and 4-year resale investment simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
